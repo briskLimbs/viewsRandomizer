@@ -1,0 +1,11 @@
+{
+  "name" : "views_randomizer",
+  "display_name": "Views Randomizer",
+  "file": "viewsRandomizer.php",
+  "author": "Saqib Razzaq",
+  "autor_website": "https://github.com/saqirzzq",
+  "date": "2019, 03, 21",
+  "description": "Add a quick action under admin videos to randomize views",
+  "version": "0.1",
+  "state": "Beta"
+}
